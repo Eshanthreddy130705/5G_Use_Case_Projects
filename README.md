@@ -1,2 +1,2 @@
 # 5G_Use_Case_Projects
-This repository contains 5G use cases related projects
+This repository contains 5G-related use case projects
