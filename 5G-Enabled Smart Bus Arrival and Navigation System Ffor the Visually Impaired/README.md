@@ -1,8 +1,6 @@
 # 5G-Enabled Smart Bus Arrival and Navigation System for the Visually Impaired
-
-**Course:** EE396 Design Lab
-**Supervisor:** Dr. Salil Kashyap
-**Authors:** A. Eshanth Reddy (230102005), Ch. SriRam Charan Reddy (230102020)
+**Supervisor:** Dr. Salil Kashyap and Aditya Gupta
+**Students:** A. Eshanth Reddy (230102005), Ch. SriRam Charan Reddy (230102020)
 
 ---
 
